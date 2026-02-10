@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a cybersecurity and digital forensics specialist with strong full-stack development and AI integration experience, focused on building secure, efficient, and scalable systems. I work at the intersection of security, automation, and development, helping organizations protect assets while moving faster—not slower.
+I’m a cybersecurity and digital forensics specialist with strong full-stack development and AI integration experience, focused on building secure, efficient, and scalable systems. I work at the intersection of security, automation, and development, helping organizations protect assets while moving faster not slower.
 
 My background includes penetration testing, SOC-level security analysis, vulnerability assessment, and incident response, combined with hands-on development using MERN stack, Python, TypeScript, and Laravel. This means I don’t just identify risks. I design and implement solutions that actually work in production.
 
