@@ -1,5 +1,19 @@
 # 💫 About Me:
-🚀 Cybersecurity & Full-Stack Developer | SOC-Driven Mindset<br><br>I’m a cybersecurity and digital forensics graduate with hands-on experience in SOC operations, threat analysis, ethical hacking, and secure web development. I enjoy breaking down real-world attacks, detecting threats, and building practical solutions that improve security posture.<br><br>🔐 What I bring to the table:<br><br>Strong foundation in network security, SIEM monitoring, incident response, and malware analysis<br><br>Experience with Kali Linux, Metasploitable, Azure labs, honeynets, and attack–defense simulations<br><br>Full-stack skills using MERN, JavaScript, TypeScript, Python, and Laravel<br><br>CompTIA Security+ certified, with a practical, blue-team focused approach<br><br>💡 Why me?<br>I combine a security-first mindset with development skills, allowing me to understand systems deeply, spot weaknesses early, and build more secure applications. I’m proactive, fast-learning, and driven by real impact—not just theory.<br><br>📌 Open to entry-level job, SOC roles, and junior security opportunities<br>Let’s build secure systems that actually work.
+I’m a cybersecurity and digital forensics specialist with strong full-stack development and AI integration experience, focused on building secure, efficient, and scalable systems. I work at the intersection of security, automation, and development, helping organizations protect assets while moving faster—not slower.
+
+My background includes penetration testing, SOC-level security analysis, vulnerability assessment, and incident response, combined with hands-on development using MERN stack, Python, TypeScript, and Laravel. This means I don’t just identify risks. I design and implement solutions that actually work in production.
+
+I help organizations:
+
+Reduce risk by proactively identifying vulnerabilities, hardening systems, and embedding security into applications from day one
+
+Save time through automation, AI-assisted monitoring, and clean, maintainable architectures that reduce operational overhead
+
+Reduce cost and generate revenue by preventing costly breaches, optimizing infrastructure, and delivering secure products that scale confidently to users and clients
+
+Unlike candidates who only understand theory or only write code, I bring both offensive and defensive security thinking with real development skills. That combination allows me to translate security requirements into practical, business-aligned solutions without slowing teams down.
+
+If you’re looking for someone who treats security as a business enabler, not a blocker, I’m the person you hire.
 
 
 ## 🌐 Socials:
